@@ -1,2 +1,2 @@
-# CryptoZombies_nClass
-CryptoZombies Exercise
+# CryptoZombies_inClass
+CryptoZombies Code for lessons
